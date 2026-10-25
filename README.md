@@ -1,7 +1,5 @@
 # Hi, I'm Lin-7-han 👋
 
-> "Don't be perfect — be brave."
-
 [![GitHub Followers](https://img.shields.io/github/followers/Lin-7-han?label=Followers&style=social)](https://github.com/Lin-7-han)
 [![GitHub Stars](https://img.shields.io/github/stars/Lin-7-han?style=social)](https://github.com/Lin-7-han)
 [![QQ](https://img.shields.io/badge/QQ-2621998737-FF3B30?style=flat-square&logo=tencentqq)](tencent://message/?uin=2621998737)
